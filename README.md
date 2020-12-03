@@ -6,6 +6,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/joaopaulolndev)](https://t.me/joaopaulolndev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopauloln7@gmail.com)](mailto:joaopauloln7@gmail.com)
 
+[![João Paulo Github Stats](https://github-readme-stats.vercel.app/api?username=joaopaulolndev&show_icons=true&theme=gruvbox)](https://github.com/joaopaulolndev)
+
 ## Hello and Welcome! 👋
 
 My name is João Paulo, I'm Brazilian living in Portugal at the moment.
