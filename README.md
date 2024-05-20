@@ -12,7 +12,7 @@ My name is João Paulo, I'm Brazilian and living in Portugal at the moment.
 
 - :man_technologist: I'm a software engineer working most of the time with Laravel.
 - 💼 Laravel Enthusiast: I specialize in working with Laravel-related projects.
-- 🔭 Currently: I'm diving deep into the world of Filament Plugins.
+- 🔭 Currently: I am immersing myself in the world of Filament Plugins.
 - :blue_heart: Techs: PHP, Python, Laravel, Livewire, Django, Vue...
 - :books: Studying Flutter to Mobile and Microservices with Docker, Kubernetes, GCP, GoLang, NodeJs, etc...
 
