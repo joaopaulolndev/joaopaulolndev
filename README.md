@@ -19,3 +19,9 @@ My name is João Paulo, I'm Brazilian and living in Portugal at the moment.
 > :octocat: [Page on Github](https://joaopaulolndev.github.io/)
 
 ---
+
+## Support My Work
+
+If you find my projects and plugins helpful, please consider buying me a coffee. Your support keeps me motivated to continue developing for the community.
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=joaopaulolndev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/joaopaulolndev)
