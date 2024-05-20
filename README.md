@@ -7,12 +7,14 @@
 
 ## Hello and Welcome! 👋
 
+Thanks for visiting my Github profile
 My name is João Paulo, I'm Brazilian and living in Portugal at the moment.
 
-- :man_technologist: I'm a software engineer.
-- :blue_heart: Techs: PHP, Python, Laravel, Django, Vue...
+- :man_technologist: I'm a software engineer working most of the time with Laravel.
+- 💼 Laravel Enthusiast: I specialize in working with Laravel-related projects.
+- 🔭 Currently: I'm diving deep into the world of Filament Plugins.
+- :blue_heart: Techs: PHP, Python, Laravel, Livewire, Django, Vue...
 - :books: Studying Flutter to Mobile and Microservices with Docker, Kubernetes, GCP, GoLang, NodeJs, etc...
-- :joystick: Games, Movies, Series
 
 > :octocat: [Page on Github](https://joaopaulolndev.github.io/)
 
