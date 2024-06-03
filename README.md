@@ -24,4 +24,4 @@ My name is João Paulo, I'm Brazilian and living in Portugal at the moment.
 
 If you find my projects and plugins helpful, please consider buying me a coffee. Your support keeps me motivated to continue developing for the community.
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=joaopaulolndev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/joaopaulolndev)
+[![Become my Sponsor](https://img.shields.io/badge/Become_my_Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github)](https://github.com/sponsors/joaopaulolndev)
